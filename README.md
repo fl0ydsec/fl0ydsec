@@ -1,154 +1,146 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:5D00B8,100:050510&height=3&width=1000&section=header"
-  width="1000"
-  alt=""
-/>
+<pre align="center">
+╔══════════════════════════════════════════════╗
+║  floydroot@ghost:~$ whoami                   ║
+║                                              ║
+║   FloydRoot                                  ║
+║   quiet routes · high privilege · zero trace ║
+║                                              ║
+║  floydroot@ghost:~$ █                        ║
+╚══════════════════════════════════════════════╝
+</pre>
 
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=600&pause=2400&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=FloydRoot"
-  alt="FloydRoot"
-/>
-
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=8A8A9A&center=true&vCenter=true&width=900&height=40&lines=Penetration+Tester;Reverse+Engineer+%2F%2F+Exploit+Dev;Network+Security+Specialist"
-  alt="FloydRoot Roles"
-/>
-
-<br/>
-
-<a href="https://github.com/fl0ydsec">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=24&section=header&text=FloydRoot&fontSize=46&fontColor=00E5FF&animation=fadeIn&desc=fl0ydsec&descSize=14&descAlignY=62"
-    alt="FloydRoot"
-    width="854"
-  />
-</a>
-
-<!-- Quer usar a arte do seu personagem aqui? Coloque um banner.png na raiz do repo
-     e troque o src acima por https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/banner.png -->
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=fl0ydsec&label=Profile%20Visitors&color=7D26CD&style=flat-square" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=fl0ydsec&label=visitors&color=7FD1FF&style=flat-square" alt="visitors"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/fl0ydsec?label=Followers&style=flat-square&color=7D26CD&logo=github&logoColor=00E5FF" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/fl0ydsec?label=followers&style=flat-square&color=7FD1FF&labelColor=0B0F19&logo=github&logoColor=7FD1FF" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Region-Brazil-7D26CD?style=flat-square" alt="Region"/>
+<img src="https://img.shields.io/badge/region-Brazil-7FD1FF?style=flat-square&labelColor=0B0F19" alt="region"/>
 
-<br/><br/>
+</div>
 
-<sub><samp>low noise · high privilege · zero trace</samp></sub>
+---
+
+## 0x01 · whoami
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+<b>FloydRoot</b> — <code>fl0ydsec</code>
+
+Security researcher working the quiet routes: <b>misconfigurations</b>, <b>trust boundaries</b> and the <b>code paths nobody audits</b>. I don't chase the front door — I read what the system promised and never checked.
+
+<blockquote>Every system trusts something. That's where I start.</blockquote>
+
+</td>
+<td width="36%" valign="top">
+
+<b>dossier</b><br/>
+<code>callsign</code> — FloydRoot<br/>
+<code>base</code> — Brazil<br/>
+<code>mode</code> — quiet<br/>
+<code>focus</code> — web / binary / net
+
+</td>
+</tr>
+</table>
+
+## 0x02 · scope
+
+| domain | practice |
+| --- | --- |
+| `web` | application pentesting · source-code auditing |
+| `binary` | reverse engineering · exploit development |
+| `net` | protocol analysis · security tooling & automation |
+
+## 0x03 · loadout
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/python-16324A?style=for-the-badge&logo=python&logoColor=7FD1FF&labelColor=0B0F19" alt="python"/>
+<img src="https://img.shields.io/badge/C-16324A?style=for-the-badge&logo=c&logoColor=7FD1FF&labelColor=0B0F19" alt="C"/>
+<img src="https://img.shields.io/badge/bash-16324A?style=for-the-badge&logo=gnubash&logoColor=7FD1FF&labelColor=0B0F19" alt="bash"/>
+<img src="https://img.shields.io/badge/php-16324A?style=for-the-badge&logo=php&logoColor=7FD1FF&labelColor=0B0F19" alt="php"/>
+<img src="https://img.shields.io/badge/rust-16324A?style=for-the-badge&logo=rust&logoColor=7FD1FF&labelColor=0B0F19" alt="rust"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/kali-16324A?style=for-the-badge&logo=kalilinux&logoColor=7FD1FF&labelColor=0B0F19" alt="kali"/>
+<img src="https://img.shields.io/badge/linux-16324A?style=for-the-badge&logo=linux&logoColor=7FD1FF&labelColor=0B0F19" alt="linux"/>
+<img src="https://img.shields.io/badge/docker-16324A?style=for-the-badge&logo=docker&logoColor=7FD1FF&labelColor=0B0F19" alt="docker"/>
+<img src="https://img.shields.io/badge/postgres-16324A?style=for-the-badge&logo=postgresql&logoColor=7FD1FF&labelColor=0B0F19" alt="postgres"/>
+<img src="https://img.shields.io/badge/git-16324A?style=for-the-badge&logo=git&logoColor=7FD1FF&labelColor=0B0F19" alt="git"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/burp_suite-16324A?style=for-the-badge&logo=burpsuite&logoColor=7FD1FF&labelColor=0B0F19" alt="burp"/>
+<img src="https://img.shields.io/badge/nmap-16324A?style=for-the-badge&logo=nmap&logoColor=7FD1FF&labelColor=0B0F19" alt="nmap"/>
+<img src="https://img.shields.io/badge/wireshark-16324A?style=for-the-badge&logo=wireshark&logoColor=7FD1FF&labelColor=0B0F19" alt="wireshark"/>
+<img src="https://img.shields.io/badge/metasploit-16324A?style=for-the-badge&logo=metasploit&logoColor=7FD1FF&labelColor=0B0F19" alt="metasploit"/>
+<img src="https://img.shields.io/badge/ghidra-16324A?style=for-the-badge&labelColor=0B0F19" alt="ghidra"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/sqlmap-16324A?style=for-the-badge&labelColor=0B0F19" alt="sqlmap"/>
+<img src="https://img.shields.io/badge/hashcat-16324A?style=for-the-badge&labelColor=0B0F19" alt="hashcat"/>
+
+</div>
+
+## 0x04 · signal
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fl0ydsec&show_icons=true&theme=dark&title_color=7FD1FF&icon_color=7FD1FF&text_color=C9D1D9&bg_color=0B0F19&border_color=16324A" alt="stats"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fl0ydsec&theme=dark&ring=7FD1FF&fire=7FD1FF&currStreakLabel=7FD1FF&sideNums=C9D1D9&sideLabels=8B949E&background=0B0F19&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0ydsec&layout=compact&theme=dark&title_color=7FD1FF&text_color=C9D1D9&bg_color=0B0F19&border_color=16324A" alt="languages"/>
+
+</div>
+
+## 0x05 · records
+
+<div align="center">
+
+[`cve.org`](https://www.cve.org/CVERecord/SearchResults?query=fl0ydsec) · [`github`](https://github.com/fl0ydsec)
 
 </div>
 
 <br/>
 
----
+<details>
+<summary><code>man floydroot</code></summary>
 
-## <samp>// IDENTITY</samp>
+```
+NAME
+    floydroot — quiet-route operator
 
-**FloydRoot** — `fl0ydsec`
+SYNOPSIS
+    floydroot [--target TARGET] [--mode quiet]
 
-Security researcher with a taste for the quiet routes: **misconfigurations**, **trust boundaries**, and the **code paths nobody audits**.
+DESCRIPTION
+    Studies trust boundaries, audits the unaudited,
+    ships findings with proof.
 
-I don't chase the front door — I read what the system promised and never checked.
+FLAGS
+    --exploit   build working PoCs
+    --reverse   read binaries like prose
+    --report    proof over noise
 
-<br/>
-
-> **Trust is the vulnerability.**
-
----
-
-## <samp>// SCOPE</samp>
-
-```text
-0x01  Penetration Testing
-0x02  Exploit Development
-0x03  Reverse Engineering
-0x04  Source-Code Auditing
-0x05  Network & Protocol Analysis
-0x06  Security Tooling & Automation
+EXIT STATUS
+    0   rooted. logs clean.
 ```
 
----
-
-## <samp>// TOOLKIT</samp>
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=python,c,js,rust,bash,php,linux,kali,docker,git,postgres,neovim&theme=dark"
-  alt="Technical Stack"
-/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-0B0F19?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Nmap-0B0F19?style=flat-square&logo=nmap&logoColor=00E5FF" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-0B0F19?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Ghidra-0B0F19?style=flat-square" alt="Ghidra"/>
-<img src="https://img.shields.io/badge/Metasploit-0B0F19?style=flat-square&logo=metasploit&logoColor=2596CD" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/SQLMap-0B0F19?style=flat-square" alt="SQLMap"/>
-<img src="https://img.shields.io/badge/Hashcat-0B0F19?style=flat-square" alt="Hashcat"/>
-
-</div>
-
----
-
-## <samp>// TRACES</samp>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=fl0ydsec&show_icons=true&theme=dark&title_color=B026FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0B0F19&border_color=5D00B8"
-  alt="FloydRoot Stats"
-/>
+</details>
 
 <br/>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=fl0ydsec&theme=dark&ring=B026FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=c9d1d9&sideLabels=8A8A9A&background=0B0F19&hide_border=true"
-  alt="FloydRoot Streak"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0ydsec&layout=compact&theme=dark&title_color=B026FF&text_color=c9d1d9&bg_color=0B0F19&border_color=5D00B8"
-  alt="FloydRoot Languages"
-/>
-
-</div>
-
----
-
-## <samp>// RECORDS</samp>
-
 <div align="center">
-
-<a href="https://www.cve.org/CVERecord/SearchResults?query=fl0ydsec">
-  <img
-    src="https://img.shields.io/badge/CVE.org-FloydRoot-7D26CD?style=for-the-badge"
-    alt="FloydRoot CVEs"
-  />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/fl0ydsec">
-  <img
-    src="https://img.shields.io/badge/GitHub-FloydRoot-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF"
-    alt="FloydRoot GitHub"
-  />
-</a>
-
-<br/><br/>
 
 <pre align="center">
  _____ _                 _         ____              _   
@@ -159,16 +151,6 @@ I don't chase the front door — I read what the system promised and never check
                |___/                                    
 </pre>
 
-<br/>
-
-<sub><i>"Access granted. Logs clean."</i></sub>
-
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:5D00B8,100:050510&height=3&width=1000&section=footer"
-  width="1000"
-  alt=""
-/>
+<sub>access granted · logs clean</sub>
 
 </div>
