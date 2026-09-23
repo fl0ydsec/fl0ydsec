@@ -39,7 +39,9 @@ Security researcher working the quiet routes: <b>misconfigurations</b>, <b>trust
 <code>callsign</code> — FloydRoot<br/>
 <code>base</code> — Brazil<br/>
 <code>mode</code> — quiet<br/>
-<code>focus</code> — web / binary / net
+<code>focus</code> — web / binary / net<br/>
+<code>privileges</code> — root<br/>
+<code>opsec</code> — clean
 
 </td>
 </tr>
@@ -107,6 +109,50 @@ Security researcher working the quiet routes: <b>misconfigurations</b>, <b>trust
 <div align="center">
 
 [`cve.org`](https://www.cve.org/CVERecord/SearchResults?query=fl0ydsec) · [`github`](https://github.com/fl0ydsec)
+
+</div>
+
+## 0x06 · hunt log
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/chain.png" width="800" alt="kill chain"/>
+
+</div>
+
+| id | class | impact | status |
+| --- | --- | --- | --- |
+| `0DAY-XXXX` | RCE · firmware/IoT | root shell | `in the wild` |
+| `CVE-2025-XXXXX` | auth bypass · web | full takeover | `reporting` |
+| `CHAIN-XXXX` | deserialization → RCE | reverse shell | `built` |
+| `PRIV-ESC-XXXX` | kernel module | ring 0 | `auditing` |
+
+## 0x07 · bug classes
+
+<div align="center">
+
+`RCE` · `SQLi` · `AuthZ bypass` · `LFI/RFI` · `SSRF` · `deserialization` · `race conditions` · `PrivEsc` · `kernel`
+
+</div>
+
+## 0x08 · contact
+
+<div align="center">
+
+[`email`](mailto:floydroot@example.com) · [`hackerone`](https://hackerone.com/) · [`bugcrowd`](https://bugcrowd.com/) · [`exploit-db`](https://www.exploit-db.com/)
+
+<br/>
+
+<details>
+<summary><code>pgp key</code></summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+(cole sua chave publica aqui)
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
 
 </div>
 
