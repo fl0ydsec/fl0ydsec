@@ -4,19 +4,17 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/terminal.png" width="600" alt="terminal"/>
+<a href="https://github.com/fl0ydsec">
+  <img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/banner.png" width="854" alt="FloydRoot banner"/>
+</a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=fl0ydsec&label=visitors&color=7FD1FF&style=flat-square" alt="visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/fl0ydsec?label=followers&style=flat-square&color=7FD1FF&labelColor=0B0F19&logo=github&logoColor=7FD1FF" alt="followers"/>
 &nbsp;
 <img src="https://img.shields.io/badge/region-Brazil-7FD1FF?style=flat-square&labelColor=0B0F19" alt="region"/>
-
-<br/><br/>
-
-<a href="https://github.com/fl0ydsec">
-  <img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/banner.png" width="854" alt="FloydRoot banner"/>
-</a>
 
 </div>
 
