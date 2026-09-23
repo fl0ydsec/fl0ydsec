@@ -17,6 +17,12 @@
 &nbsp;
 <img src="https://img.shields.io/badge/region-Brazil-7FD1FF?style=flat-square&labelColor=0B0F19" alt="region"/>
 
+<br/><br/>
+
+<a href="https://github.com/fl0ydsec">
+  <img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/banner.png" width="854" alt="FloydRoot banner"/>
+</a>
+
 </div>
 
 ---
