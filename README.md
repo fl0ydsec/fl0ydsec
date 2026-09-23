@@ -24,14 +24,14 @@
 
 <a href="https://github.com/fl0ydsec">
   <img
-    src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/banner.png"
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=24&section=header&text=FloydRoot&fontSize=46&fontColor=00E5FF&animation=fadeIn&desc=fl0ydsec&descSize=14&descAlignY=62"
     alt="FloydRoot"
-    width="720"
+    width="854"
   />
 </a>
 
-<!-- Arte do personagem: coloque um banner.png na raiz do repo ou troque o src.
-     Sem imagem? Apague este bloco. -->
+<!-- Quer usar a arte do seu personagem aqui? Coloque um banner.png na raiz do repo
+     e troque o src acima por https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/banner.png -->
 
 <br/><br/>
 
