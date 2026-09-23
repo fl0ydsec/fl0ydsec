@@ -114,12 +114,6 @@ Security researcher working the quiet routes: <b>misconfigurations</b>, <b>trust
 
 ## 0x06 · hunt log
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/chain.png" width="800" alt="kill chain"/>
-
-</div>
-
 | id | class | impact | status |
 | --- | --- | --- | --- |
 | `0DAY-XXXX` | RCE · firmware/IoT | root shell | `in the wild` |
