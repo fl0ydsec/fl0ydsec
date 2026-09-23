@@ -1,15 +1,6 @@
 <div align="center">
 
-<pre align="center">
-╔══════════════════════════════════════════════╗
-║  floydroot@ghost:~$ whoami                   ║
-║                                              ║
-║   FloydRoot                                  ║
-║   quiet routes · high privilege · zero trace ║
-║                                              ║
-║  floydroot@ghost:~$ █                        ║
-╚══════════════════════════════════════════════╝
-</pre>
+<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/terminal.png" width="600" alt="terminal"/>
 
 <img src="https://komarev.com/ghpvc/?username=fl0ydsec&label=visitors&color=7FD1FF&style=flat-square" alt="visitors"/>
 &nbsp;
@@ -148,14 +139,7 @@ EXIT STATUS
 
 <div align="center">
 
-<pre align="center">
- _____ _                 _         ____              _   
-|  ___| | ___  _   _  __| |_ __   |  _ \ ___   ___ | |_ 
-| |_  | |/ _ \| | | |/ _` | '__|  | |_) / _ \ / _ \| __|
-|  _| | | (_) | |_| | (_| | |     |  _ < (_) | (_) | |_ 
-|_|   |_|\___/ \__, |\__,_|_|     |_| \_\___/ \___/ \__|
-               |___/                                    
-</pre>
+<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/figlet.png" width="640" alt="FloydRoot"/>
 
 <sub>access granted · logs clean</sub>
 
