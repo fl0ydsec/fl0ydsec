@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/divider.png" width="1000" alt=""/>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/terminal.png" width="600" alt="terminal"/>
 
 <img src="https://komarev.com/ghpvc/?username=fl0ydsec&label=visitors&color=7FD1FF&style=flat-square" alt="visitors"/>
@@ -142,5 +146,9 @@ EXIT STATUS
 <img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/figlet.png" width="640" alt="FloydRoot"/>
 
 <sub>access granted · logs clean</sub>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/fl0ydsec/fl0ydsec/main/divider.png" width="1000" alt=""/>
 
 </div>
