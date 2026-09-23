@@ -133,7 +133,7 @@ Security researcher working the quiet routes: <b>misconfigurations</b>, <b>trust
 
 <div align="center">
 
-[`email`](mailto:floydroot@example.com) · [`hackerone`](https://hackerone.com/) · [`bugcrowd`](https://bugcrowd.com/) · [`exploit-db`](https://www.exploit-db.com/)
+[`telegram`](https://t.me/+2PQcOCy34DBkODBk)
 
 <br/>
 
